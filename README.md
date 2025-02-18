@@ -21,16 +21,27 @@ flutter create hazard_reporting_app
 Step 2: Add Dependencies (pubspec.yaml)
 
 cupertino_icons: ^1.0.8
+
   firebase_core: ^3.11.0
+  
   cloud_firestore: ^5.6.2
+  
   firebase_auth: ^5.4.1
+  
   fluttertoast: ^8.2.10
+  
   flutter_map: ^5.0.0
+  
   latlong2: ^0.9.0
+  
   geolocator: ^10.1.0
+  
   url_launcher: ^6.3.1
+  
   intl: ^0.18.1
+  
   shared_preferences: ^2.5.2
+  
   geocoding: ^3.0.0
 
 Step 3: Set Up Firebase
