@@ -3,8 +3,12 @@
 =======
 # groupproject
 
-A new Flutter project.
+crowdsourcing is a flutter mobile application
 
+# Before starting
+Ensure you have the following installed:
+- Flutter → Flutter SDK installed
+- 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
