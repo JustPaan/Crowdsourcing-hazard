@@ -6,7 +6,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-# 📱 groupproject
+# 📱 About Our Project
 A powerful Flutter mobile application for real-time hazard reporting and community safety monitoring. This system enables citizens to actively participate in maintaining community safety through crowdsourced hazard reporting.
 
 # 🎯 Key Features
