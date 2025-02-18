@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Crowdsourcing-hazard
+
+# CROWDSOURCING HAZARD INFORMATION SYSTEM
 =======
 # groupproject
 
